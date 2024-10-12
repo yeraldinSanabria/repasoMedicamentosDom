@@ -61,27 +61,10 @@ document.getElementById('procesarPaciente').addEventListener('click', () => {
         medicamentoEntregado = 1;
         dosis = 17;
     }else{
-        
+
     }
 
 });
 
 
-
-//     // Validando los rangos de presiones
-//     if (sistolica < 69 && diastolica < 48) {
-//         categoria = 'Hipotension';
-//         medicamentoEntregado = 2;
-//         dosis = 6;
-//     }else if (sistolica >= 69 && sistolica < 98 && diastolica >= 48 && diastolica < 66 ){
-//         categoria = 'Optima';
-//     }else if (sistolica >= 98 && sistolica < 143 && diastolica >= 66 && diastolica < 92 ){
-//         categoria = 'Común';
-//     }else if (sistolica >= 143 && sistolica < 177 && diastolica >= 92 && diastolica < 124 ){
-//         categoria = 'Pre-HTA';
-//         medicamentoEntregado = 1;
-//         dosis = 6;
-//     }
-
-// });
 
